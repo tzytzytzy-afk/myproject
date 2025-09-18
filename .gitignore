@@ -1,0 +1,20 @@
+﻿# VS Code
+.vscode/
+
+# 构建/临时文件
+build/
+dist/
+out/
+*.log
+
+# Python
+.venv/
+__pycache__/
+
+# Node
+node_modules/
+
+# C/C++
+*.exe
+*.obj
+*.o
